@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository is the code all collaborators share and build off of
